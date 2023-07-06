@@ -1,3 +1,6 @@
+#fizzbuzz with foreach-object loop
+
+#in the ForEach-Object commandlet,the `$_` variable represent the current object
 
 1..100 | ForEach-Object { 
    if
